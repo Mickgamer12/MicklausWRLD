@@ -4,8 +4,8 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    // Example: 
+    valentineName: "Aroush",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "YAY IM THE HAPPIEST BOY IN THE WORLD BABY I LOVE YOU AROUSH! 🎉💝💖💝💓",
+        message: "I PROMISE I WILL NEVER LEAVE YOU, BABY. YOU ARE THE BEST GIRLFRIEND IN THE WORLD, AND I MEAN THAT WITH MY WHOLE HEART. WE’RE NEVER BREAKING UP, I WANT US TO GROW, LOVE, AND STAY TOGETHER FOREVER. I’M YOURS, ALWAYS.!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
